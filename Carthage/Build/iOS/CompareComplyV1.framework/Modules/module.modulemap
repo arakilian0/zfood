@@ -1,0 +1,11 @@
+framework module CompareComplyV1 {
+  umbrella header "CompareComplyV1.h"
+
+  export *
+  module * { export * }
+}
+
+module CompareComplyV1.Swift {
+    header "CompareComplyV1-Swift.h"
+    requires objc
+}

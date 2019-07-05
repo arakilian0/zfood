@@ -1,0 +1,11 @@
+framework module RestKit {
+  umbrella header "RestKit.h"
+
+  export *
+  module * { export * }
+}
+
+module RestKit.Swift {
+    header "RestKit-Swift.h"
+    requires objc
+}

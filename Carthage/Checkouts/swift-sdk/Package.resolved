@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "IBMWatsonRestKit",
+        "repositoryURL": "https://github.com/watson-developer-cloud/restkit.git",
+        "state": {
+          "branch": null,
+          "revision": "c4fa7c1ff757e261c9acae463f3ecb71e7d8ae93",
+          "version": "3.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
