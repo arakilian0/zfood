@@ -1,4 +1,4 @@
-#zfood
+# zfood
 
 Requirements:
 -------------
@@ -13,9 +13,5 @@ Requirements:
 Usage:
 ------
 
-- Screenshot 1
-- Screenshot 2
-- Screenshot 3
-- Screenshot 4
-- Screenshot 5
-- Screenshot 6
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
