@@ -10,8 +10,13 @@ Requirements:
 - SVProgressHUD - https://github.com/SVProgressHUD/SVProgressHUD
 
 
-Usage:
+Screenshots
 ------
 
+Launch Screen, Main App View, and Image Picker
 ![alt text](https://raw.githubusercontent.com/arakilian0/zfood/master/screenshot1.png)
+
+-
+
+Possible results 
 ![alt text](https://raw.githubusercontent.com/arakilian0/zfood/master/screenshot2.png)
